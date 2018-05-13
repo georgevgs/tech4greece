@@ -1,0 +1,11 @@
+<?php
+/**
+ * The template for displaying 404 (Not Found) pages.
+ */
+get_header(); ?>
+
+<div class="post-content">
+  <img src="https://tech4greece.gr/wp-content/uploads/2018/03/tech4greece-404.jpg" alt="tech4greece-404" height="334" width="1200">
+</div><!--#page-->
+
+<?php get_footer(); ?>
